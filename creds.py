@@ -1,0 +1,2 @@
+paasword ='admin'
+user ='admin'
