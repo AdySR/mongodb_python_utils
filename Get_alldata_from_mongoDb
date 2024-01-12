@@ -1,0 +1,4 @@
+from pymongo import MongoClient
+user ='admin'
+password = 'admin'
+mongo_uri = f"mongodb+srv://{(user)}:{(password)}@poccluster.sjsfbns.mongodb.net/?retryWrites=true&w=majority"
